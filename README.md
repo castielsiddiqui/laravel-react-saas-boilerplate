@@ -17,6 +17,8 @@ A modern, production-ready full-stack starter kit designed for indie hackers and
 ## 🛠️Feature Comparison Matrix
 
 | Feature | Free Tier | Pro Tier (Gumroad) |
+| -------- | -------- | -------- |
+| :--- | :---: | :---: |
 | Laravel 11 + React 18 + Inertia.js | ✅ | ✅ |
 | Tailwind CSS Dark/Light Mode | ✅ | ✅ |
 | Multi-Tenant Workspaces & Isolation | ❌ | ✅ |
