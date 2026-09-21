@@ -3,7 +3,7 @@
 A modern, production-ready full-stack starter kit designed for indie hackers and developers.
 
 > ⚡ **Need Subscription Billing, Team Multi-Tenancy, & Admin Management?**
-> 👉 **[Get the Pro SaaS Boilerplate on Gumroad ($59)](#YOUR_GUMROAD_LINK)**
+> 👉 **[Get the Pro SaaS Boilerplate on Gumroad ($25)](https://castielsiddiqui.gumroad.com/l/lkpgji)**
 
 ---
 
