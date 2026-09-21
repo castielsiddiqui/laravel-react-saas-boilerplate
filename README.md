@@ -14,6 +14,16 @@ A modern, production-ready full-stack starter kit designed for indie hackers and
 - **User Dashboard:** Profile settings & password update interface
 
 ---
+## 🛠️Feature Comparison Matrix
+
+| Feature | Free Tier | Pro Tier (Gumroad) |
+| Laravel 11 + React 18 + Inertia.js | ✅ | ✅ |
+| Tailwind CSS Dark/Light Mode | ✅ | ✅ |
+| Multi-Tenant Workspaces & Isolation | ❌ | ✅ |
+| Workspace Switching & Member CRUD | ❌ | ✅ |
+| Signed Email Invitations Workflow | ❌ | ✅ |
+| Stripe Subscription Billing | ❌ | ✅ |
+---
 
 ## 🚀 Quick Start Setup
 
